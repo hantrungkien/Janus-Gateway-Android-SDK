@@ -1,0 +1,3 @@
+include ':app'
+include ':janus-client'
+rootProject.name = "JanusGateway"
