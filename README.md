@@ -1,4 +1,4 @@
-### Janus-Gateway-Android-SDK
+### Janus-Gateway-Android
 
 <p align="center">
   <img alt="logo" src="https://raw.githubusercontent.com/meetecho/janus-mobile-sdk/master/docs/_media/logo.png"/>
